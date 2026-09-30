@@ -1,0 +1,8 @@
+{
+  "_help": "Connections between places. Use a place id or a zone as zone:bedroom, zone:indoor, or zone:outdoor. Walking inside the house or around outside is always one step; going between inside and outside needs a connection here. The bedroom has its own door to the garden, and the front door leads from the house outside. zones moves a place into bedroom, indoor, or outdoor.",
+  "connections": [
+    {"from": "zone:bedroom", "to": "zone:outdoor", "via": "the bedroom door to the garden"},
+    {"from": "zone:indoor", "to": "zone:outdoor", "via": "the front door"}
+  ],
+  "zones": {}
+}

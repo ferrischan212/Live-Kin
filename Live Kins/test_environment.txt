@@ -1,0 +1,170 @@
+outside environment with sunflowers, butterflies, green grass, open field, white Bichon doggy. Brown bedroom floor, white walls, window to the outside world. Shoerack. Fireplace. Moon decorations. A chandelier on the ceiling. A bow for the dog on the floor. Aquarium with colorful fish. Small indoor pond with lily pads. Fish food container. Glass bowl with glowing stones.
+Kitchen area with refrigerator, oven, sink, cabinets, plates, cups, toaster, fruit bowl, and a small dining table.
+Bathroom with bathtub, shower, sink, mirror, towels, bath mat, toilet, and small bathroom cabinet.
+Walk-in closet with hanging clothes, dresses, jackets, hats, handbags, shoes, and a full-length mirror.
+Vanity table with makeup, hairbrushes, perfume bottles, jewelry box, mirror, and small stool.
+Bookshelf filled with books, magazines, photo albums, and small decorative objects.
+Desk area with computer, keyboard, mouse, desk lamp, notebooks, pencils, sticky notes, and headphones.
+Gaming corner with television, game console, controllers, beanbag chair, and colorful LED lights.
+Craft table with scissors, glue, colored paper, crayons, paint brushes, paints, yarn, and sewing supplies.
+Indoor plant corner with potted plants, hanging plants, watering can, plant shelf, and gardening tools.
+Pet corner with dog bed, food bowls, water bowl, toy basket, chew toys, tennis balls, and a small blanket.
+Toy storage area with stuffed animals, toy boxes, building blocks, dolls, puzzles, and board games.
+Reading nook with a large armchair, floor lamp, blanket, side table, and stack of books.
+Music corner with piano, guitar, microphone, headphones, sheet music, and speakers.
+Art wall with paintings, framed drawings, photographs, corkboard, and pinned notes.
+Indoor balcony with glass doors, outdoor chairs, small table, potted plants, and string lights.
+Storage room with cardboard boxes, suitcases, cleaning supplies, folded blankets, and miscellaneous objects.
+Laundry area with washing machine, dryer, laundry basket, detergent bottles, hanging clothes, and ironing board.
+Indoor staircase leading to an upper floor, with a handrail, wall paintings, and small lights along the steps.
+Secret hidden door built into the wall, leading to a small mysterious room.
+Attic with old furniture, trunks, dusty books, hanging lights, and stored decorations.
+Basement with shelves, storage boxes, old furniture, tools, and a small workbench.
+Garage with bicycles, scooter, toolbox, shelves, cardboard boxes, and a small workbench.
+Mail area with mailbox, letters, envelopes, packages, postcards, and a small key holder.
+Calendar wall with a large monthly calendar, clock, reminders, photographs, and colorful notes.
+Interactive smart-home panel on the wall controlling lights, temperature, doors, and music.
+Large wall clock with moving hands and different decorative clock pieces.
+Ceiling fan that slowly rotates above the room.
+Curtains that can open and close, allowing sunlight or moonlight into the room.
+Sliding glass doors that lead from the bedroom into the outdoor environment.
+Floor rug that can be walked across, with different textures and patterns.
+Window with rain droplets, condensation, curtains, and changing views of the outside world.
+Fireplace with animated flames, wood logs, smoke, and a small set of fireplace tools.
+Mirror that reflects the room and the bot standing in front of it.
+Wall switches that control different parts of the environment.
+Door with a handle, lock, peephole, and opening/closing animation.
+Small digital clock displaying the current time.
+Speaker system capable of playing ambient sounds.
+Ceiling skylight showing clouds during the day and stars at night.
+Weather effects outside the window, including rain, thunderstorms, fog, wind, and falling leaves.
+Front porch with wooden steps, welcome mat, rocking chair, flower pots, lanterns, and a small package box.
+Backyard with a wooden fence, picnic table, barbecue grill, birdhouse, bird feeder, garden hose, and outdoor chairs.
+Greenhouse with glass walls, flower beds, seed trays, hanging plants, gardening shelves, pots, and gardening tools.
+Garden fountain with flowing water, stone statues, water lilies, small birds, and stepping stones.
+Swimming pool with blue water, pool ladder, inflatable floaties, pool chairs, towels, umbrella, and diving board.
+Hot tub with bubbling water, wooden platform, towels, slippers, and small lanterns.
+Treehouse with wooden ladder, rope bridge, tiny windows, cushions, books, and a small telescope.
+Playground with swing set, slide, sandbox, seesaw, climbing frame, and colorful playground toys.
+Picnic area with blanket, picnic basket, sandwiches, fruit, drinks, plates, cups, and napkins.
+Outdoor fire pit with logs, stones, camping chairs, roasting sticks, marshmallows, and lanterns.
+Garden vegetable patch with tomatoes, carrots, pumpkins, lettuce, watering cans, plant markers, and gardening gloves.
+Chicken coop with chickens, nesting boxes, hay, chicken feeder, water container, and small fenced area.
+Butterfly garden with flowers, butterfly house, nectar feeders, stones, and tiny garden signs.
+Bird-watching area with binoculars, wooden birdhouse, bird feeder, field guide, and small bench.
+Outdoor clothesline with hanging shirts, dresses, towels, bedsheets, clothespins, and laundry basket.
+Tool shed with shovels, rakes, buckets, hammers, screwdrivers, nails, wood planks, and gardening gloves.
+Workshop with workbench, toolbox, measuring tape, drill, screws, wooden pieces, clamps, and safety goggles.
+Sewing room with sewing machine, fabric rolls, thread spools, buttons, needles, mannequins, and fabric scissors.
+Photography corner with camera, tripod, camera bag, photo printer, memory cards, and framed photographs.
+Mini theater with projector, projector screen, theater seats, popcorn machine, movie posters, blankets, and remote control.
+Dance studio with large mirrors, wooden floor, ballet barre, speakers, water bottles, and exercise mats.
+Yoga room with yoga mats, cushions, meditation pillows, candles, incense holder, and peaceful decorations.
+Fitness room with treadmill, stationary bicycle, dumbbells, exercise bench, resistance bands, and water bottles.
+Spa room with massage table, candles, towels, bathrobes, essential oil bottles, and relaxing decorations.
+Dressing room with clothing racks, costumes, wigs, hats, masks, shoes, and a three-way mirror.
+Jewelry room with glass display cases, necklaces, bracelets, rings, earrings, watches, and jewelry stands.
+Treasure room with locked chests, coins, gemstones, antique objects, maps, keys, and mysterious artifacts.
+Science room with microscope, test tubes, beakers, magnifying glass, magnets, measuring tools, and science books.
+Astronomy room with telescope, star charts, constellation posters, planets, moon models, and a rotating star map.
+Weather station with thermometer, rain gauge, wind vane, barometer, weather charts, and small instruments.
+Map room with a large world map, globe, pins, compass, travel photographs, and marked locations.
+Travel corner with suitcases, passports, postcards, travel guides, luggage tags, and souvenirs.
+Kitchen pantry with shelves of food, cereal boxes, jars, canned goods, snacks, spices, and storage containers.
+Breakfast nook with round table, four chairs, cereal bowls, mugs, napkins, and a small vase of flowers.
+Dining room with large dining table, chairs, plates, silverware, glasses, serving dishes, and centerpiece.
+Living room with large sofa, cushions, coffee table, television stand, floor lamp, blankets, and decorative pillows.
+Cozy fireplace seating area with two armchairs, side tables, blankets, books, and a small basket of firewood.
+Guest bedroom with bed, pillows, nightstand, bedside lamp, wardrobe, mirror, and guest slippers.
+Baby room with crib, rocking chair, stuffed animals, changing table, baby blankets, toys, and night light.
+Study room with large desk, office chair, filing cabinet, bookshelves, documents, folders, and desk organizer.
+Library with tall bookshelves, rolling ladder, reading tables, armchairs, lamps, and thousands of books.
+Music recording room with microphone, recording booth, audio mixer, studio monitors, cables, and acoustic panels.
+Art studio with easels, canvases, paint palettes, paint tubes, charcoal, clay, brushes, and drying racks.
+Pottery room with pottery wheel, clay blocks, ceramic bowls, sculpting tools, kiln, and drying shelves.
+Baking station with mixing bowls, stand mixer, rolling pin, measuring cups, flour, sugar, baking trays, and cooling racks.
+Ice cream station with freezer, ice cream containers, cones, toppings, sprinkles, spoons, and small bowls.
+Coffee station with coffee machine, mugs, coffee beans, grinder, sugar, milk, syrups, and teaspoons.
+Tea station with kettle, teapot, tea boxes, honey jar, lemon slices, cups, and small biscuits.
+Snack cabinet with crackers, cookies, chips, candy, popcorn, cereal bars, and juice boxes.
+Refrigerated drink station with glass bottles, juice, milk, soda, water, and ice dispenser.
+Breakfast bar with stools, countertop, fruit bowl, toaster, waffle maker, plates, and napkins.
+Indoor waterfall with cascading water, rocks, moss, plants, and soft lighting.
+Indoor tree with a large planter, branches reaching toward the ceiling, hanging decorations, and small birds.
+Zen garden with sand, stones, miniature plants, wooden rake, and small water feature.
+Indoor herb garden with basil, mint, rosemary, thyme, plant labels, and small pots.
+Aquarium tunnel with fish swimming overhead, coral, sea plants, bubbles, and underwater lighting.
+Terrarium display with moss, tiny plants, rocks, miniature decorations, and misting system.
+Rabbit area with rabbit hutch, hay, food bowl, water bottle, tunnels, and chew toys.
+Hamster enclosure with tunnels, wheel, bedding, food bowl, water bottle, and tiny house.
+Cat corner with scratching post, cat tree, cushions, food bowls, toys, and climbing shelves.
+Dog washing station with small tub, shower hose, towels, shampoo bottles, brush, and drying mat.
+Pet grooming station with grooming table, brushes, combs, nail clippers, towels, and pet shampoo.
+Elevator connecting different floors with buttons, lights, doors, mirror, and floor indicator.
+Secret tunnel connecting two rooms with hidden switches, glowing lights, small doors, and mysterious decorations.
+Rooftop garden with benches, flower pots, vegetable planters, wind chimes, telescope, and string lights.
+Rooftop observatory with dome roof, large telescope, star charts, constellation lights, and astronomy equipment.
+Courtyard with stone paths, fountain, benches, flower beds, trees, statues, and hanging lanterns.
+Small village street outside with houses, sidewalks, street lamps, mailboxes, bicycles, trees, and parked cars.
+Forest trail outside with wooden signs, stepping stones, bridges, mushrooms, bushes, and hidden paths.
+Walking path around the property with benches, lanterns, flower beds, trees, and little resting areas.
+Small pond outside with ducks, frogs, reeds, lily pads, stepping stones, and a wooden bridge.
+Waterfall outside with rocks, moss, flowing water, wildflowers, and a small viewing platform.
+Cave entrance outside with glowing crystals, rocks, vines, lanterns, and a hidden path.
+Wind chimes hanging near the window that move when the wind blows.
+Mobility system with doors that automatically open, elevators that respond to buttons, and lights that activate when someone enters.
+Object interaction system where drawers open, cabinets can be searched, books can be picked up, and containers can be opened.
+Lighting system with lamps, candles, ceiling lights, colored lights, dimmers, and automatic lighting changes.
+Sound environment with birds, wind, rain, fireplace crackling, footsteps, water, insects, distant animals, and indoor ambience.
+Cleaning system with dust, spills, crumbs, dirty dishes, cleaning supplies, vacuum cleaner, broom, mop, and trash bins.
+Interactive furniture with chairs that can be sat on, beds that can be slept in, sofas that can be lounged on, and tables that can hold objects.
+Object placement system where objects can be picked up, moved, placed on shelves, stored in containers, or dropped on the floor.
+Doorbell at the entrance with a button, chime, visitor indicator, and small camera.
+Security system with door locks, window locks, cameras, alarm panel, motion sensors, and security lights.
+Intercom system connecting different rooms with wall speakers and call buttons.
+Mailbox system with an opening mailbox, incoming letters, packages, postcards, and delivery notifications.
+Package delivery area with cardboard boxes, envelopes, delivery labels, packing tape, scissors, and package shelf.
+Recycling station with separate bins for paper, plastic, glass, metal, and general waste.
+Trash area with garbage cans, trash bags, recycling bins, and cleaning supplies.
+Emergency system with smoke detector, fire alarm, fire extinguisher, emergency lights, and first-aid kit.
+First-aid cabinet with bandages, gauze, antiseptic, thermometer, ice pack, and medical supplies.
+Power system with electrical panel, switches, outlets, extension cords, lamps, and backup generator.
+Water system with visible pipes, faucets, water heater, drainage, and water controls.
+Heating and cooling system with vents, thermostat, radiator, portable fan, and air conditioner.
+Smart mirrors displaying time, weather, calendar, reminders, and room information.
+Interactive windows that can change opacity, tint, display weather information, or become completely transparent.
+Animated paintings that subtly move, change scenery, or react when someone approaches.
+A magical bookshelf with books that glow, move slightly, open themselves, or reveal hidden compartments.
+A rotating globe that displays different countries, cities, landmarks, and weather.
+A wall aquarium built directly into the room with hidden lighting and underwater plants.
+A small indoor train track running around the room with miniature trains, stations, bridges, and tunnels.
+A miniature dollhouse containing tiny rooms, furniture, lights, and moving figures.
+A clockwork wall installation with gears, pendulums, rotating pieces, and moving mechanical parts.
+A memory wall with photographs, drawings, postcards, notes, and objects that can be added over time.
+A message board where notes, reminders, drawings, photographs, and messages can be pinned.
+A wish jar filled with small folded notes, ribbons, stars, and tiny decorative objects.
+A collection cabinet with shelves for souvenirs, crystals, shells, figurines, medals, coins, and unusual objects.
+A rotating seasonal decoration display that automatically changes decorations throughout the year.
+A night-light system with small lights along the floor, stairs, furniture, and hallways.
+A hidden floor compartment containing storage space, old objects, keys, maps, and mysterious items.
+A movable ladder that can be positioned against different shelves and storage areas.
+A retractable ceiling ladder leading to the attic.
+A dumbwaiter connecting the kitchen to other floors for moving food and small objects.
+A greenhouse roof that automatically opens when the weather is warm and closes when it rains.
+An automatic sprinkler system that waters outdoor plants.
+A birdbath with birds occasionally visiting, drinking, and splashing in the water.
+A weather vane on the roof that rotates with the wind.
+A mailbox flag that raises when new mail arrives.
+A porch swing that gently moves when someone sits on it.
+A windmill outside with rotating blades and a small garden underneath.
+A wishing well with coins inside, a bucket, rope, and small wooden roof.
+A stone archway leading to another outdoor area.
+A garden maze with hedges, paths, statues, flowers, benches, and hidden areas.
+A small outdoor stage with curtains, wooden platform, microphones, speakers, and audience seating.
+A gazebo with benches, table, flowers, hanging lights, and curtains.
+A bridge over a small stream with stepping stones, reeds, fish, and flowers.
+A stream flowing through the outdoor environment with rocks, frogs, plants, and tiny waterfalls.
+A firefly lantern garden with glowing jars, wooden posts, flowers, and nighttime lighting.
+A rainbow arch that appears after rain.
+A weather-controlled umbrella station with umbrellas, raincoats, boots, and a drying rack.
+A coat and accessory station near the entrance with coats, scarves, umbrellas, hats, gloves, and bags.
